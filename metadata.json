@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Maintenance AI Dashboard",
+  "description": "A dashboard for refinery reliability teams to visualize Remaining Useful Life (RUL), health classification, and explainable alerts for refinery units and equipment, powered by a predictive AI agent.",
+  "requestFramePermissions": []
+}
